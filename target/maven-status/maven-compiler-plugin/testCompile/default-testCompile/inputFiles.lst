@@ -1,0 +1,14 @@
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/step_definitions/HomePage_step_definitions.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/utils/Helper.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/config/Constants.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/step_definitions/Common_step_definitions.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/testRunner/SerenityTestSuite.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/config/ReadTestData.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/page_objects/IMDB_HomePage.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/common/BaseTest.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/common/SoftAssertImpl.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/page_objects/SignUp_Page.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/page_objects/TVShows_Page.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/config/ReadPropertyEnv.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/page_objects/NavigateTo.java
+/Users/user-imoney/eclipse-workspace/Serenity-UITest/src/test/java/step_definitions/SignUp_step_definitions.java
